@@ -23,3 +23,4 @@ C:\Users\miron\.vscode\new-year-project\TaskManagementSystem\bin\Debug\net8.0\Mi
 C:\Users\miron\.vscode\new-year-project\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\miron\.vscode\new-year-project\TaskManagementSystem\bin\Debug\net8.0\Npgsql.dll
 C:\Users\miron\.vscode\new-year-project\TaskManagementSystem\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\miron\.vscode\new-year-project\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.sourcelink.json

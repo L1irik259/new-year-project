@@ -5,7 +5,7 @@ namespace TaskManagementSystem.Models;
 public class TaskBuilder : IMyTaskBuilder
 {
     private MyTask NowTask { get; set; } = new MyTask();
-    private int GlobalTaskId = 1;
+    private int GlobalTaskId = 5;
 
     public IMyTaskBuilder WithId()
     {
